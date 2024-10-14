@@ -7,6 +7,7 @@ Na tomto gite nájdete kompletné zadanie z Edupage - funkčný php title aj v h
 > Stiahneš ich (helpdesk je nižšie haha)
 > Unzipneš, vložíš do toho htdocs súboru od MAMPu a dáš "nahradiť všetky" alebo niečo v tom zmysle. Jednoducho nech sa nahradia už s upraveným kódom
 > pozn. súbory head.php a footer.php idú do parts/
+> 
 > Porobím screeny a hádžem do zadania na Edu. That simple
 
 # [Návod na stiahnutie GITu]
