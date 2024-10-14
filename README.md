@@ -1,3 +1,3 @@
-# [Kompletne 3B_Dashboard zadanie z Edupage]
+# Kompletne 3B_Dashboard zadanie z Edupage
 
-## [Čaute lasky <3]
+## Čaute lasky <3
