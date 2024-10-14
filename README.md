@@ -5,7 +5,7 @@ Na tomto gite nájdete kompletné zadanie z Edupage - funkčný php title aj v h
 
 > Nahral som tu len súbory, ktorých sa dotýkajú zmeny - nech nemusím nahrávať všetkých 1800
 > Stiahneš ich (helpdesk je nižšie haha)
-> Unzipneš, vložíš do toho htdocs súboru od MAMPu a dáš "nahradiť všetky" alebo niečo v tom zmysle. Jednoducho nech sa nahradia už s upraveným kódom
+> Unzipneš, vložíš do toho htdocs súboru (všetky okrem README.md to je len kvôli tomuto obkecu ktorý práve čítaš) od MAMPu a dáš "nahradiť všetky" alebo niečo v tom zmysle. Jednoducho nech sa nahradia už s upraveným kódom
 > 
 > pozn. súbory head.php a footer.php idú do parts/
 > 
