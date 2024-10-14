@@ -11,5 +11,5 @@ Na tomto gite nájdete kompletné zadanie z Edupage - funkčný php title aj v h
 + Úplne posledné je Download ZIP
 + Stiahnuté unzipnem a hodím do htdocs presne tak, ako keď som sťahoval ZIP od Minčáka z Edupage
 
-> ## Keby sa vyskytli problémy, viete kde som :)
+> ### Keby sa vyskytli problémy, viete kde som :)
 
