@@ -17,9 +17,6 @@
 
             <!-- Main Content -->
             <div id="content">
-            <?php include '../config.php'; 
-                echo $pageName;
-            ?>
 
                 <!-- Topbar -->
                 <?php include 'parts/topbar.php'; ?>
